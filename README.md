@@ -5,6 +5,7 @@ Mount google drive on the Colab, use path of demo folder to run test
 
 
 The function countLine() :
+
 1.Takes 2 arguments as input, one is path of directory, and second argument is optional argument for extention of the filename and default value for second argument is ".txt”.
 
 2.Function reads all the file present in the directory and the sub directory and append the name of files with matching extention into the list "names" and append number of lines present in file with the matching extention into the list "lines".
